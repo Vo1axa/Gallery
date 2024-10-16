@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+@font-face {
+    font-family: 'Monoton';
+    src: url('/fonts/Monoton-Regular.ttf');
+}
+@font-face{
+    font-family: 'Split';
+    src: url('/fonts/SplitOn.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'hHachimaki';
+    src: url('/fonts/hHachimaki.ttf');
+}
+@font-face{
+    font-family: 'BebasNeue';
+    src: url('/fonts/BebasNeue-Regular.ttf');
+}
+@font-face {
+    font-family: 'Barlow Condensed';
+    src: url('/fonts/Barlow_Condensed/BarlowCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow Condensed';
+    src: url('/fonts/Barlow_Condensed/BarlowCondensed-Medium.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow Condensed';
+    src: url('/fonts/Barlow_Condensed/BarlowCondensed-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow Condensed';
+    src: url('/fonts/Barlow_Condensed/BarlowCondensed-Semibold.ttf') format('truetype');
+    font-weight: 600; /* Semibold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow Condensed';
+    src: url('/fonts/Barlow_Condensed/BarlowCondensed-Light.ttf') format('truetype');
+    font-weight: 300; /* Light */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow Condensed';
+    src: url('/fonts/Barlow_Condensed/BarlowCondensed-Extralight.ttf') format('truetype');
+    font-weight: 200; /* Extralight */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow Condensed';
+    src: url('/fonts/Barlow_Condensed/BarlowCondensed-Black.ttf') format('truetype');
+    font-weight: 900; /* Black */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Barlow Condensed';
+    src: url('/fonts/Barlow_Condensed/BarlowCondensed-Thin.ttf') format('truetype');
+    font-weight: 900; /* Black */
+    font-style: normal;
+}
+
+
